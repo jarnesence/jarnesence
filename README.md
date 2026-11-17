@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lumarkgames"><img src="https://img.shields.io/badge/Lumark-Games%20%26%20Software-231f28?style=for-the-badge&logo=unrealengine&logoColor=f3b8c8" alt="Lumark Games"></a>
+  <a href="https://github.com/lumark-labs"><img src="https://img.shields.io/badge/Lumark%20Labs-Games%20%26%20Software-231f28?style=for-the-badge&logo=unrealengine&logoColor=f3b8c8" alt="Lumark Games"></a>
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 ### Currently Building
 
-- **Unannounced Multiplayer Game ([Lumark Games](https://github.com/lumarkgames))** — Active development (`Closed-Source`); real-time multiplayer architecture, gameplay systems &amp; custom shaders *(details kept private)*.
+- **Unannounced Multiplayer Game ([Lumark Labs](https://github.com/lumark-labs))** — Active development (`Closed-Source`); real-time multiplayer architecture, gameplay systems &amp; custom shaders *(details kept private)*.
 
 ---
 
