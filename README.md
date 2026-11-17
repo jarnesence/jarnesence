@@ -25,7 +25,10 @@
   <img src="https://img.shields.io/badge/C%2B%2B-231f28?style=flat-square&logo=cplusplus&logoColor=f3b8c8" alt="C++">
   <img src="https://img.shields.io/badge/C%23-231f28?style=flat-square&logo=csharp&logoColor=f3b8c8" alt="C#">
   <img src="https://img.shields.io/badge/Rust-231f28?style=flat-square&logo=rust&logoColor=f3b8c8" alt="Rust">
+  <img src="https://img.shields.io/badge/JavaScript-231f28?style=flat-square&logo=javascript&logoColor=f3b8c8" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-231f28?style=flat-square&logo=typescript&logoColor=f3b8c8" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Swift-231f28?style=flat-square&logo=swift&logoColor=f3b8c8" alt="Swift">
+  <img src="https://img.shields.io/badge/Kotlin-231f28?style=flat-square&logo=kotlin&logoColor=f3b8c8" alt="Kotlin">
   <img src="https://img.shields.io/badge/Node.js-231f28?style=flat-square&logo=nodedotjs&logoColor=f3b8c8" alt="Node.js">
   <img src="https://img.shields.io/badge/Python-231f28?style=flat-square&logo=python&logoColor=f3b8c8" alt="Python">
   <img src="https://img.shields.io/badge/Go-231f28?style=flat-square&logo=go&logoColor=f3b8c8" alt="Go">
