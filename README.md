@@ -5,7 +5,7 @@
 <h2 align="center">Járn</h2>
 <p align="center">
   <b>Software, Game &amp; Mobile Developer</b><br>
-  Real-time 3D engines, cross-platform apps, low-level systems &amp; embedded automotive
+  Real-time 3D engines, cross-platform apps, private client systems &amp; embedded automotive
 </p>
 
 <p align="center">
@@ -33,10 +33,10 @@
 
 ### What I Build
 
-- **Games & Real-Time 3D** — Gameplay architecture, physics, custom renderers &amp; shaders at **[Lumark Games](https://github.com/lumarkgames)**
-- **Mobile & Web** — Cross-platform mobile apps, edge APIs, and interactive frontends
-- **Systems & Tooling** — Low-level utilities, CLI automation, and Linux desktop environments
-- **Automotive & Embedded** — Native infotainment apps &amp; real-time telemetry at **[iDrive Labs](https://github.com/idrive-labs)**
+- **Games & Real-Time 3D ([Lumark Games](https://github.com/lumarkgames))** — Currently developing an unannounced **multiplayer game** (closed-source, details kept private); gameplay architecture, real-time networking, physics, custom renderers &amp; shaders.
+- **Private &amp; Enterprise Software (Closed-Source / NDA)** — Custom desktop/mobile applications, internal company tools, and bespoke client integrations kept private under NDA.
+- **Mobile, Web &amp; Systems** — Cross-platform apps, edge APIs, low-level utilities, CLI automation &amp; Linux desktop environments.
+- **Automotive &amp; Embedded ([iDrive Labs](https://github.com/idrive-labs))** — Native infotainment apps &amp; real-time vehicle telemetry for BMW iDrive 7 &amp; 8.
 
 ### Selected Open Source
 
