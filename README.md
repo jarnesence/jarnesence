@@ -4,7 +4,7 @@
 
 ### Focus
 
-- **Games & Real-Time 3D** — Gameplay architecture, physics, custom renderers, and shaders (`Unreal Engine` · `Unity` · `Godot` · `C++` · `C#` · `OpenGL / WebGL`)
+- **Games & Real-Time 3D** — Gameplay architecture, physics, custom renderers, and shaders at [@lumarkgames](https://github.com/lumarkgames) (`Unreal Engine` · `Unity` · `Godot` · `C++` · `C#` · `OpenGL / WebGL`)
 - **Mobile & Web** — Cross-platform apps, edge APIs, and interactive frontends (`TypeScript` · `JavaScript` · `Node.js` · `Cloudflare Workers`)
 - **Systems & Tooling** — Low-level utilities, CLI automation, and Linux desktop environments (`C/C++` · `Rust` · `Python` · `Go` · `Linux`)
 - **Automotive & Embedded** — Native infotainment apps and real-time telemetry at [@idrive-labs](https://github.com/idrive-labs)
