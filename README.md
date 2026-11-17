@@ -14,7 +14,7 @@
 
 ---
 
-### Core Stack
+<img src="img/h-stack.png" alt="Core Stack" width="100%">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-231f28?style=flat-square&logo=unrealengine&logoColor=f3b8c8" alt="Unreal Engine">
@@ -35,13 +35,13 @@
   <img src="https://img.shields.io/badge/Linux-231f28?style=flat-square&logo=linux&logoColor=f3b8c8" alt="Linux">
 </p>
 
-### Currently Building
+<img src="img/h-building.png" alt="Currently Building" width="100%">
 
 - **Unannounced Multiplayer Game ([Lumark Labs](https://github.com/lumark-labs))** — Active development (`Closed-Source`); real-time multiplayer architecture, gameplay systems &amp; custom shaders *(details kept private)*.
 
 ---
 
-### Closed-Source &amp; Commercial Portfolio
+<img src="img/h-portfolio.png" alt="Closed-Source & Commercial Portfolio" width="100%">
 
 > *Shareable commercial, B2B, and internal projects below. Additional client and enterprise engagements remain undisclosed under NDA.*
 
@@ -109,11 +109,11 @@
 
 ---
 
-### Open Source
+<img src="img/h-opensource.png" alt="Open Source" width="100%">
 
 - **[dotfiles](https://github.com/jarnesence/dotfiles)** — Hyprland terminal-zen Linux environment with palette-driven theming &amp; automated setup
 
-#### For Fun *(Weekend / Hobby)*
+<img src="img/h-forfun.png" alt="For Fun" width="100%">
 
 > *Personal side experiments built for fun outside of commercial work.*
 
