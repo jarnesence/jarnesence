@@ -5,12 +5,11 @@
 <h2 align="center">Járn</h2>
 <p align="center">
   <b>Software, Game &amp; Mobile Developer</b><br>
-  Real-time 3D engines, interactive installations, enterprise systems, mobile apps &amp; embedded automotive
+  Real-time 3D engines, interactive installations, enterprise systems, mobile &amp; web applications
 </p>
 
 <p align="center">
   <a href="https://github.com/lumarkgames"><img src="https://img.shields.io/badge/Studio-Lumark%20Games-231f28?style=for-the-badge&logo=unrealengine&logoColor=f3b8c8" alt="Lumark Games"></a>
-  <a href="https://github.com/idrive-labs"><img src="https://img.shields.io/badge/Automotive-iDrive%20Labs-231f28?style=for-the-badge&logo=bmw&logoColor=f3b8c8" alt="iDrive Labs"></a>
 </p>
 
 ---
@@ -38,16 +37,6 @@
 ### Currently Building
 
 - **Unannounced Multiplayer Game ([Lumark Games](https://github.com/lumarkgames))** — Active development (`Closed-Source`); real-time multiplayer architecture, gameplay systems &amp; custom shaders *(details kept private)*.
-
----
-
-### Selected Open Source
-
-| Project | Focus |
-|---|---|
-| **[Sideways](https://github.com/idrive-labs/sideways)** | Real-time vehicle telemetry, Kalman-filtered slip estimation, OpenGL ES 3D replay engine, QHD video export &amp; signed cloud leaderboard |
-| **[MGU Apps](https://github.com/idrive-labs/mgu-apps)** | Distribution catalog &amp; package pipeline for native automotive apps |
-| **[dotfiles](https://github.com/jarnesence/dotfiles)** | Hyprland terminal-zen Linux environment with palette-driven theming &amp; automated setup |
 
 ---
 
@@ -116,3 +105,18 @@
 | **CacheHarbor** | Local LAN edge content-delivery server for offline exhibition environments | Linux (Nginx, Docker), Node.js | Closed-Source / Infrastructure |
 
 </details>
+
+---
+
+### Open Source
+
+- **[dotfiles](https://github.com/jarnesence/dotfiles)** — Hyprland terminal-zen Linux environment with palette-driven theming &amp; automated setup
+
+#### For Fun *(Weekend / Hobby)*
+
+> *Personal side experiments built for fun outside of commercial work.*
+
+| Project | Focus |
+|---|---|
+| **[Sideways](https://github.com/idrive-labs/sideways)** | Real-time drift telemetry, 3D replay engine &amp; QHD video export for BMW iDrive 7 &amp; 8 |
+| **[MGU Apps](https://github.com/idrive-labs/mgu-apps)** | Hobby MGU Store distribution source at [@idrive-labs](https://github.com/idrive-labs) |
