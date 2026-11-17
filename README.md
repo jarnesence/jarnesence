@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lumarkgames"><img src="https://img.shields.io/badge/Studio-Lumark%20Games-231f28?style=for-the-badge&logo=unrealengine&logoColor=f3b8c8" alt="Lumark Games"></a>
+  <a href="https://github.com/lumarkgames"><img src="https://img.shields.io/badge/Lumark-Games%20%26%20Software-231f28?style=for-the-badge&logo=unrealengine&logoColor=f3b8c8" alt="Lumark Games"></a>
 </p>
 
 ---
