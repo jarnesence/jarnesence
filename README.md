@@ -1,20 +1,16 @@
-<h3 align="center">Járn</h3>
-<p align="center">
-  <b>Software, Game &amp; Mobile Developer</b><br>
-  Full-stack systems, mobile apps, game development, shaders, tooling &amp; embedded automotive (<a href="https://github.com/idrive-labs">@idrive-labs</a>)
-</p>
+## Járn
 
----
+**Software, Game & Mobile Developer** — building across real-time 3D & games, mobile & web apps, Linux systems/tooling, and embedded automotive.
 
-### What I Build
+### Focus
 
-- **Games & Real-Time Graphics** — Gameplay systems, physics, custom rendering, and tools (Unity / C#, Godot, WebGL/OpenGL, shaders)
-- **Mobile & Web Applications** — End-to-end apps, APIs, edge workers, and cross-platform UIs
-- **Systems & Tooling** — Linux environments, automation, CLI tools, and low-level/embedded integrations (C/C++, Rust, Python, Go, TypeScript/JS)
-- **Automotive** — Native head-unit apps and real-time telemetry at **[iDrive Labs](https://github.com/idrive-labs)**
+- **Games & Real-Time 3D** — Gameplay architecture, physics, custom renderers, and shaders (`Unity` · `Godot` · `C#` · `OpenGL / WebGL`)
+- **Mobile & Web** — Cross-platform apps, edge APIs, and interactive frontends (`TypeScript` · `JavaScript` · `Node.js` · `Cloudflare Workers`)
+- **Systems & Tooling** — Low-level utilities, CLI automation, and Linux desktop environments (`C/C++` · `Rust` · `Python` · `Go` · `Linux`)
+- **Automotive & Embedded** — Native infotainment apps and real-time telemetry at [@idrive-labs](https://github.com/idrive-labs)
 
-### Featured Open Source
+### Selected Open Source
 
-- **[idrive-labs/sideways](https://github.com/idrive-labs/sideways)** — Real-time drift telemetry, 3D replay engine, QHD video export, and signed cloud leaderboard
-- **[idrive-labs/mgu-apps](https://github.com/idrive-labs/mgu-apps)** — App catalog &amp; distribution source for BMW MGU
-- **[jarnesence/dotfiles](https://github.com/jarnesence/dotfiles)** — Hyprland terminal-zen Linux environment with automated installer
+- **[Sideways](https://github.com/idrive-labs/sideways)** — Real-time vehicle telemetry, Kalman-filtered slip estimation, custom OpenGL ES 3D replay engine, QHD video export, and signed cloud leaderboard
+- **[MGU Apps](https://github.com/idrive-labs/mgu-apps)** — Distribution catalog and package pipeline for native automotive apps
+- **[dotfiles](https://github.com/jarnesence/dotfiles)** — Hyprland terminal-zen Linux environment with palette-driven theming and automated setup
