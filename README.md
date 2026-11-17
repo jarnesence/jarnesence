@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="img/banner.jpg" alt="p4tr0n — Software Architect · Game & Systems Developer" width="100%">
+  <img src="img/banner.jpg" alt="Járn — Software Architect · Game & Systems Developer" width="100%">
 </p>
 
-<h2 align="center">p4tr0n</h2>
+<h2 align="center">Járn</h2>
 <p align="center">
   <b>Software Architect · Game, Mobile &amp; Systems Developer</b><br>
   Real-time 3D engines, cross-platform apps, low-level systems &amp; embedded automotive
