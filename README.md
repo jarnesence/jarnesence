@@ -33,10 +33,11 @@
 
 ### What I Build
 
-- **Games & Real-Time 3D ([Lumark Games](https://github.com/lumarkgames))** — Currently developing an unannounced **multiplayer game** (closed-source, details kept private); gameplay architecture, real-time networking, physics, custom renderers &amp; shaders.
-- **Private &amp; Enterprise Software (Closed-Source / NDA)** — Custom desktop/mobile applications, internal company tools, and bespoke client integrations kept private under NDA.
-- **Mobile, Web &amp; Systems** — Cross-platform apps, edge APIs, low-level utilities, CLI automation &amp; Linux desktop environments.
-- **Automotive &amp; Embedded ([iDrive Labs](https://github.com/idrive-labs))** — Native infotainment apps &amp; real-time vehicle telemetry for BMW iDrive 7 &amp; 8.
+- **Unannounced Multiplayer Game ([Lumark Games](https://github.com/lumarkgames))** — Currently in active development (`Closed-Source`); real-time multiplayer architecture, gameplay systems &amp; custom shaders *(details kept private)*.
+- **Interactive 3D &amp; VR Experiences (`Closed-Source / NDA`)** — Real-time spatial applications, interactive installations &amp; exhibition builds in Unreal Engine / Unity.
+- **Enterprise &amp; Internal Systems (`Closed-Source / NDA`)** — Custom internal company tools, workflow automation, desktop/web control panels &amp; telemetry pipelines.
+- **Mobile &amp; Backend Platforms (`Closed-Source / NDA`)** — Cross-platform iOS/Android applications, low-latency APIs &amp; edge services.
+- **Automotive &amp; Embedded ([iDrive Labs](https://github.com/idrive-labs))** — Native head-unit apps &amp; real-time vehicle telemetry for BMW iDrive 7 &amp; 8.
 
 ### Selected Open Source
 
