@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner-sakura.jpg" alt="Járn — Software · Games · Systems" width="100%">
+  <img src="img/banner-v2.jpg" alt="Járn — Software · Games · Systems" width="100%">
 </p>
 
 <h2 align="center">Járn</h2>
